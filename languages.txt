@@ -1,0 +1,3 @@
+I spoke with Peter, they said that their favorite language was java because they enjoy the components of object-oriented programming.
+They explained that they liked the conciseness of the language with its requirements to type every variable.
+This language is also the one they are most experienced with.
